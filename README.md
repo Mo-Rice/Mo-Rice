@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### PhD Candidate Radboud University
+### Physics of Machine Learning and Complex Systems
+My general interest revolve around communication is large interacting particle systems and how topology effects it.
+
 <!--
 **Mo-Rice/Mo-Rice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
